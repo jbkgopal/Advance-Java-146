@@ -1,0 +1,51 @@
+*Revision Syllabus*
+
+JDBC - Technology
+
+	-Statement
+	- JDBC CRUD
+	- JDBC CRUD Layers , Controller, Dao and Service
+
+	-PreparedStatement
+	- JDBC CRUD
+	- JDBC CRUD Layers , Controller, Dao and Service
+
+Hibernate - Framework
+	- Architecture
+	- Query
+	- Criteria
+	- Mapping
+	- Hibernate CRUD
+	- Hibernate CRUD Layers , Controller, Dao and Service
+
+Spring - Framework
+	- Maven Project/Java Project/Dynamic Web Project
+
+SpringBoot - Framework - Eclipse- 2023-06 / 2023 - 09
+	- API's/Webservice's/Microservice's/url's/Website's...ETC
+
+Back End to DataBase - BackEnd Developer
+Front End to Back End to DataBase - Full Stack Developer
+
+SpringBoot CRUD - Data Parma
+- SpringBoot Integration
+	- PostMan+SpringBoot API + Hibernate = SpringBoot Integration
+Query/Http Method/Annotations
+- Put
+- Post
+- Delete
+- Get
+
+SpringBoot IOC - 6
+SpringBoot AOP - 3 
+SpringBoot MVC - All Annotation
+JSP SpringBoot MVC + Hibernate
+
+JSP Tomcat - Server -8.5
+JSP Servlet 
+JSP Servlet MVC + JDBC
+
+
+
+
+

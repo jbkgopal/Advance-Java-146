@@ -1,0 +1,29 @@
+SI File 1 PostMan to Eclipse to MySQL
+
+API Based Project Testing SI File 1 
+
+************** DataBase Connection Codes **************
+
+spring.datasource.url = jdbc:mysql://localhost:3306/siapi?createDatabaseIfNotExist=true
+spring.datasource.username = root
+spring.datasource.password = root
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.jpa.hibernate.ddl-auto = update
+spring.jackson.serialization.fail-on-empty-beans=false
+
+************** MySQL Dependancy 5.0 **************
+
+<dependency>
+<groupId>mysql</groupId>
+<artifactId>mysql-connector-java</artifactId>
+<version>5.1.6</version>
+</dependency>
+
+************** MySQL Dependancy 8.0 **************
+
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.13</version>
+</dependency>
